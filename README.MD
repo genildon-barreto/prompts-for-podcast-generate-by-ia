@@ -37,16 +37,15 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Gemini](https://gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via gemini
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Gemini(canvas) Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -60,9 +59,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 1. Use os prompts de roteiro no `gemini` ou `chagpt`
+- 🤖 2. Use os prompts de roteiro gerados pelo gemini ou chatgpt no `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `gemini` ou `chagpt`
 
 ## 👨‍💻 Expert
 
@@ -71,22 +70,22 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/88632877?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGenildon Barreto<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/genildon-barreto">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="www.linkedin.com/in/genildon-barreto">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/genildon.barreto/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -96,4 +95,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Genildon Barreto](https://github.com/genildon-barreto)
